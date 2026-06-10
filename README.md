@@ -12,29 +12,79 @@
 
 ### `about me`
 
-Final-year Computer Science student at **IIIT Lucknow**, graduating in **June 2026**.
+Computer Science student at **IIIT Lucknow**.
 
-**C, C++, Java, and Python** form my core toolkit.
+⚡ AI SWE Intern @ Motive  
+🔗 Ex-SWE Intern @ LinkedIn
 
-Engineer focused on building **LLM-powered systems**, real-time pipelines, and **scalable backend architectures** that hold up in production.
+Interested in:
 
-Delivered hands-on at **Motive** (AI voice alerts, AWS infrastructure, LiveKit routing) and **LinkedIn** (backend services, reducing MTTR by ~35%).
+- Generative AI
+- Backend Engineering
+- Distributed Systems
+- Cloud Infrastructure
 
-Previously built semantic search platforms, HMAC-signed webhook systems, and event-driven distributed architectures.
+Currently building production-grade AI systems, voice agents, and event-driven architectures.
 
-Currently exploring **Generative AI**, **LLM applications**, and **distributed backend engineering** — building systems that actually work at scale.
-
-Beyond engineering, I enjoy graphic design. Systems by day, aesthetics by night.
+Outside of engineering, I enjoy graphic design, sports & creativity.
 
 </td>
 
 <td width="40%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
-
-</td>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/></td>
 </tr>
 </table>
+
+---
+<!-- TECH STACK -->
+### `stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,ruby,html,css" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nextjs,react,mongodb,postgres,redis" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br>
+
+</div>
+
+---
+
+<!-- PACMAN CONTRIBUTION GRAPH -->
+### `activity`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph-dark.svg"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph.svg"
+  >
+
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+</picture>
+
+</div>
 
 ---
 
@@ -48,96 +98,6 @@ Beyond engineering, I enjoy graphic design. Systems by day, aesthetics by night.
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starliterss)
 
 </div>
-
----
-
-<!-- TECH STACK -->
-### `tech stack`
-
-<div align="center">
-
-<!-- Languages -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=ruby&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" />
-</p>
-
-<!-- AI / ML -->
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" />
-</p>
-
-<!-- Cloud / Infra -->
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" />
-</p>
-
-<!-- Backend -->
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" />
-</p>
-
-<!-- Frontend / Design -->
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" />
-</p>
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-### `metrics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=starliterss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d7cd8&icon_color=9d7cd8&text_color=c9d1d9" height="150"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starliterss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9d1d9" height="150"/>
-
-</div>
-
----
-
-<!-- PACMAN CONTRIBUTION GRAPH -->
-### `activity`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph.svg">
-
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
 
 <!-- FOOTER -->
 <div align="center">
