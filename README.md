@@ -28,6 +28,20 @@ Currently building production-grade AI systems, voice agents, and event-driven a
 
 Outside of engineering, I enjoy graphic design, sports & creativity.
 
+<p align="left">
+
+<b>📬 Let's Connect :</b><br>
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-os77/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasingh23aug@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starliterss)
+
+</div>
+
+</p>
+
 </td>
 
 <td width="40%" valign="middle" align="center">
@@ -83,19 +97,6 @@ Outside of engineering, I enjoy graphic design, sports & creativity.
     src="https://raw.githubusercontent.com/starliterss/starliterss/pacman-output/pacman-contribution-graph-dark.svg"
   />
 </picture>
-
-</div>
-
----
-
-<!-- REACH ME -->
-### `reach me`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-os77/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasingh23aug@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starliterss)
 
 </div>
 
